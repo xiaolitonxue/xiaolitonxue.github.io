@@ -6,7 +6,7 @@
   <link href="http://xiaolitonxue.github.io/atom.xml" rel="self"/>
   
   <link href="http://xiaolitonxue.github.io/"/>
-  <updated>2020-10-16T07:24:08.344Z</updated>
+  <updated>2020-10-16T12:06:40.674Z</updated>
   <id>http://xiaolitonxue.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我java</title>
+    <link href="http://xiaolitonxue.github.io/2020/10/16/%E6%88%91java/"/>
+    <id>http://xiaolitonxue.github.io/2020/10/16/%E6%88%91java/</id>
+    <published>2020-10-16T12:05:32.000Z</published>
+    <updated>2020-10-16T12:06:40.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>#第一篇文章<br>##我的java</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#第一篇文章&lt;br&gt;##我的java&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
